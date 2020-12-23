@@ -2,9 +2,9 @@
 
 ## Contenido
 * [repo-check](#repo-check)
-* [Instalación](#instalacion)
+* [Instalación](#instalaci%C3%B3n)
 * [Uso](#uso)
-* [Inspiración](#inspiracion)
+* [Inspiración](#inspiraci%C3%B3n)
 
 ## repo-check
 repo-check es un pequeño script escrito en go que nos ayuda a buscar distintos repositorios para posteriormente poder obtener todos los datos con dvcs-ripper.
