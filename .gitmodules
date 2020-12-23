@@ -1,0 +1,3 @@
+[submodule "dvcs-ripper"]
+	path = dvcs-ripper
+	url = https://github.com/kost/dvcs-ripper.git
